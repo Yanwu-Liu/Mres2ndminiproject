@@ -44,5 +44,17 @@ This repository contains the following files:
 Each file under each folder can be run independently. 
 
 
+## Prerequisites
+- MATLAB_R2020b
+- Jupyter Notebook
+- Python 3.6.7 |Anaconda, Inc.| (default, Oct 23 2018, 14:01:38) 
+- [GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)]
+- numpy 1.18.5
+- matplotlib 3.3.2
+- cycler 0.10.0
+- json 2.0.9
+- PIL 8.0.1
+
+
 ## References
 [1] C. Deakin, M. Enrico, N. Parsons, and G. Zervas, “Design and analysis of beam steering multicore fiber optical switches,” Journal of Lightwave Technology, vol. 37, no. 9, pp. 1954– 1963, 2019.
